@@ -1,6 +1,6 @@
 # 📞 Contact Book (Python + MySQL)
 
-A simple terminal-based **Contact Book** application built with **Python** and **MySQL**. This project demonstrates basic CRUD operations (Create, Read, Update, Delete) and Python-MySQL integration using the `mysql-connector-python` library.
+A simple terminal-based **Contact Book** application built with **Python** and **MySQL**. This project demonstrates basic operations (Create, Read, Update, Delete) and Python-MySQL integration using the `mysql-connector-python` library.
 
 ---
 
@@ -73,39 +73,4 @@ conn = mysql.connector.connect(
 python contact_book.py
 ```
 
----
 
-## 📸 Screenshots
-
-> Add screenshots of the CLI menu, contact list display, etc.
-
----
-
-## 🧠 What You Will Learn
-
-- Connecting Python to MySQL
-- Performing CRUD operations in a real-world use case
-- Writing structured, modular Python code
-- Using MySQL Workbench or CLI for database operations
-
----
-
-## 📂 Project Structure
-
-```
-contact-book-python-mysql/
-├── contact_book.py      # Main application
-└── README.md            # Project documentation
-```
-
----
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙌 Acknowledgements
-
-- Built as a learning project for practicing Python and MySQL integration.
